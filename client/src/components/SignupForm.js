@@ -33,6 +33,7 @@ const SignupForm = () => {
       if (!response.ok) {
         throw new Error('something went wrong!');
       }
+      console.log(Error)
 
       const { token, user } = await response.json();
       console.log(user);
