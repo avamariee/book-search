@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://github.com/avamariee/book-search
 
-> This application is deployed at: 
+> This application is deployed at: https://obscure-citadel-81139.herokuapp.com/
 
 ## Screenshot
 
